@@ -6,17 +6,9 @@
 
 <p align="left">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=uvish66&color=0e75b6&style=flat&theme=flat"
+    src="https://github-profile-trophy.vercel.app/?username=uvish&color=0e75b6&style=flat&theme=flat"
     alt="uvish66"
   />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=uvish66"
-      alt="uvish66"
-  /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -414,3 +406,5 @@
     />
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uvish&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="uvish"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvish&amp;show_icons=true&amp;locale=en" alt="uvish"></p>
